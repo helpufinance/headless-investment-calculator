@@ -6,6 +6,8 @@
 
 # Headless Investment Calculator
 
+[![npm version](https://img.shields.io/npm/v/%40helpu%2Fheadless-investment-calculator?logo=npm)](https://www.npmjs.com/package/@helpu/headless-investment-calculator)
+
 A headless, framework-agnostic investment calculator with compound interest, portfolio projections, and retirement planning.
 
 ## What is HelpU Finance?
