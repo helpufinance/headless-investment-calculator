@@ -1,6 +1,6 @@
 {
     "name": "@helpu/headless-investment-calculator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A headless, framework-agnostic investment calculator with compound interest, portfolio projections, and retirement planning",
     "keywords": [
         "investment",
